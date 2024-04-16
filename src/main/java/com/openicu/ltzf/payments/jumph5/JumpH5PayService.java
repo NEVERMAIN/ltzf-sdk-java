@@ -23,7 +23,6 @@ public class JumpH5PayService {
         this.configuration = configuration;
     }
 
-
     public PrepayResponse prepay(PrepayRequest request) throws IOException {
 
         // 1.请求参数 & 签名
