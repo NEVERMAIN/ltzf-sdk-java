@@ -6,7 +6,7 @@
 
     <groupId>com.openicu</groupId>
     <artifactId>ltzf-sdk-java</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>ltzf-sdk-java</name>
     <description>ltzf java SDK</description>
@@ -85,15 +85,6 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>2.0.28</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.github.wechatpay-apiv3/wechatpay-java
-                 SDK：https://github.com/wechatpay-apiv3/wechatpay-java
-            -->
-        <dependency>
-            <groupId>com.github.wechatpay-apiv3</groupId>
-            <artifactId>wechatpay-java</artifactId>
-            <version>0.2.11</version>
         </dependency>
 
     </dependencies>

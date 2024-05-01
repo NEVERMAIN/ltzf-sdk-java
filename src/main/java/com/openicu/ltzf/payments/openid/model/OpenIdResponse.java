@@ -1,10 +1,7 @@
 package com.openicu.ltzf.payments.openid.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.sun.deploy.panel.ITreeNode;
 import lombok.Data;
-
-import javax.security.sasl.SaslServer;
 
 /**
  * @description:
